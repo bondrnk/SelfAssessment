@@ -1,0 +1,59 @@
+## Programming fundamental concepts
+
+- Language
+  - Object: 🖐️ used
+  - self: 🖐️ used
+  - lambda function: 🖐️ used
+  - async function: 🖐️ used
+  - decorators: 🖐️ used
+  - isinstance: 🖐️ used
+  - unpacking: 🖐️ used
+  - *args, **kwargs: 🖐️ used
+  - type: 🖐️ used
+  - tuple unpacking: 🖐️ used
+  - generator: 🖐️ used
+  - iterator: 🖐️ used
+  - async generator: 🖐️ used
+  - async iterator: 🖐️ used
+  - method chaining: 🖐️ used
+  - global variable: 🖐️ used
+  - property (getters and setters): 🖐️ used
+  - dict: 🖐️ used
+  - class inheritance (prototype): 🖐️ used
+  - comparison operators: 🖐️ used
+  - logical operators: 🖐️ used
+  - bitwise operators: 🖐️ used
+  - ternary operator: 🖐️ used
+  - del: 🖐️ used
+  - in operator: 🖐️ used
+  - super: 🖐️ used
+  - metaclasses: 🖐️ used
+- Statements
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - for: 🖐️ used
+  - try..except: 🖐️ used
+  - with statement: 🖐️ used
+  - import: 🖐️ used
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - pass: 🖐️ used
+  - assert: 🖐️ used
+  - class: 🖐️ used
+- Functions
+  - function definition: 🖐️ used
+  - return: 🖐️ used
+  - default parameters: 🖐️ used
+  - closures: 🖐️ used
+- Data structures
+  - List: 🖐️ used
+  - Dictionary: 🖐️ used
+  - Set: 🖐️ used
+  - Tuple: 🖐️ used
+  - None: 🖐️ used
+  - datetime: 🖐️ used
+- Infrastructure
+  - CPython: 👂 heard
+  - pip (package manager): 🖐️ used
+  - PyPI (Python Package Index): 🖐️ used
+  - virtual environments: 🖐️ used
