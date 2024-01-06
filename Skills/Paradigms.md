@@ -1,23 +1,23 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming 🖐️ used
-  - Imperative programming 🖐️ used
-  - Structured programming 🖐️ used
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 🖐️ used
+  - Structured programming: 🖐️ used
   - Non-structured programming
-  - Functional programming 🖐️ used
+  - Functional programming: 🖐️ used
   - Prototype-based programming
-  - Object-oriented programming 🖐️ used
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
-  - Generic programming 🖐️ used
-  - Concurrent computing 🖐️ used
-  - Asyncronous programming 🖐️ used
-  - Parallel programming 🖐️ used
-  - Reactive programming 🖐️ used
+  - Generic programming: 🖐️ used
+  - Concurrent computing: 🖐️ used
+  - Asyncronous programming: 🖐️ used
+  - Parallel programming: 🖐️ used
+  - Reactive programming: 🖐️ used
   - FRP (Functional-reactive)
   - Automata-based programming
-  - Domain-specific languages 🖐️ used
-  - Multi-paradigm programming 🖐️ used
+  - Domain-specific languages: 🖐️ used
+  - Multi-paradigm programming: 🖐️ used
   - Metaprogramming
   - Actor model
 - OOP basics
@@ -42,25 +42,25 @@
   - Introspection: 🎓 known
   - Reflection: 🎓 known
 - Patterns
-  - Singleton 🖐️ used
-  - Factory Method 🖐️ used
-  - Abstract Factory 🎓 known
-  - Adapter 🎓 known
-  - Observer 🎓 known
-  - Strategy 🎓 known
-  - Facade 🎓 known
-  - Proxy 🎓 known
-  - Chain of Responsibility 🎓 known
-  - Command 🎓 known
-  - Iterator 🖐️ used
-  - State 🎓 known
-  - Bridge 🎓 known
-  - Builder 🖐️ used
-  - Prototype 🎓 known
-  - Composite 🎓 known
-  - Decorator 🎓 known
-  - Flyweight 🎓 known
-  - Mediator 🎓 known
-  - Memento 🎓 known
-  - Template Method 🎓 known
-  - Visitor 🎓 known
+  - Singleton: 🖐️ used
+  - Factory Method: 🖐️ used
+  - Abstract Factory: 🎓 known
+  - Adapter: 🎓 known
+  - Observer: 🎓 known
+  - Strategy: 🎓 known
+  - Facade: 🎓 known
+  - Proxy: 🎓 known
+  - Chain of Responsibility: 🎓 known
+  - Command: 🎓 known
+  - Iterator: 🖐️ used
+  - State: 🎓 known
+  - Bridge: 🎓 known
+  - Builder: 🖐️ used
+  - Prototype: 🎓 known
+  - Composite: 🎓 known
+  - Decorator: 🎓 known
+  - Flyweight: 🎓 known
+  - Mediator: 🎓 known
+  - Memento: 🎓 known
+  - Template Method: 🎓 known
+  - Visitor: 🎓 known

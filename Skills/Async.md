@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop 👂 heard
-  - try..catch 🖐️ used
-  - Non-blocking 🖐️ used
-  - Async I/O 🖐️ used
-  - Thread pool 🖐️ used
+  - Event loop: 👂 heard
+  - try..catch: 🖐️ used
+  - Non-blocking: 🖐️ used
+  - Async I/O: 🖐️ used
+  - Thread pool: 🖐️ used
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -13,33 +13,33 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions 🎓 known
-  - Dead locks 🎓 known
-  - Live locks 🎓 known
-  - Concurrent programming 🎓 known
-  - Parallel programming 🎓 known
-  - Actor Model 👂 heard
-  - Thread 🎓 known
-  - Process 🎓 known
+  - Race conditions: 🎓 known
+  - Dead locks: 🎓 known
+  - Live locks: 🎓 known
+  - Concurrent programming: 🎓 known
+  - Parallel programming: 🎓 known
+  - Actor Model: 👂 heard
+  - Thread: 🎓 known
+  - Process: 🎓 known
 - Async contracts
-  - Callbacks 🖐️ used
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
-  - Thenable 🖐️ used
-  - Promise 🖐️ used
-  - Async/await 🖐️ used
-  - Future 🖐️ used
-  - Deferred 🖐️ used
+  - Thenable: 🖐️ used
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
+  - Future: 🖐️ used
+  - Deferred: 🖐️ used
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event 🖐️ used
-  - Coroutine 🖐️ used
-  - Goroutine 👂 heard
-  - Signal 👂 heard
-  - Stream 🖐️ used
-  - Chain of responsibility 👂 heard
-  - Middleware 🖐️ used
-  - Locks 🖐️ used
+  - Event: 🖐️ used
+  - Coroutine: 🖐️ used
+  - Goroutine: 👂 heard
+  - Signal: 👂 heard
+  - Stream: 🖐️ used
+  - Chain of responsibility: 👂 heard
+  - Middleware: 🖐️ used
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify
   - promisify
@@ -48,19 +48,19 @@
   - async compose
 - Async abstractions interfaces
   - EventEmitter
-  - Observable/Observer 👂 heard
+  - Observable/Observer: 👂 heard
   - Readable
   - Writable
   - Transform
-  - Async Pool 👂 heard
-  - Async Queue 👂 heard
-  - Async Collector 👂 heard
-  - Semaphore 🖐️ used
-  - Mutex 🖐️ used
-  - Spin Lock 👂 heard
+  - Async Pool: 👂 heard
+  - Async Queue: 👂 heard
+  - Async Collector: 👂 heard
+  - Semaphore: 🖐️ used
+  - Mutex: 🖐️ used
+  - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
-  - Timers 🖐️ used
-  - setImmediate 🖐️ used
+  - Timers: 🖐️ used
+  - setImmediate: 🖐️ used
   - nextTick
   - AbortController
   - AbortSignal
@@ -75,7 +75,7 @@
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
-  - JSON: streaming serialization 👂 heard
+  - JSON: streaming serialization: 👂 heard
   - promisify
   - callbackify
   - AsyncLocalStorage
