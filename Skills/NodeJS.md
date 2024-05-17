@@ -61,23 +61,23 @@
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer: 👂 heard
-  - Multilayer approach: 👂 heard
-  - Separation of concerns: 👂 heard
-  - Inversion of control: 👂 heard
-  - Dependency injection: 👂 heard
+  - Isolation between layer: 🖐️ used
+  - Multilayer approach: 🖐️ used
+  - Separation of concerns: 🖐️ used
+  - Inversion of control: 🎓 known
+  - Dependency injection: 🎓 known
   - GRASP
-  - SOLID: 👂 heard
-  - GoF patterns: 👂 heard
-  - Distributed systems: 👂 heard
-  - Highload applications: 👂 heard
-  - Clean architecture: 👂 heard
-  - DDD: 👂 heard
-  - Message Queue: 👂 heard
-  - CQS: 👂 heard
-  - CQRS: 👂 heard
-  - Event sourcing: 👂 heard
-  - Load balancing: 👂 heard
+  - SOLID: 🎓 known
+  - GoF patterns: 🎓 known
+  - Distributed systems: 🖐️ used
+  - Highload applications: 🎓 known
+  - Clean architecture: 🎓 known
+  - DDD: 🖐️ used
+  - Message Queue: 🖐️ used
+  - CQS: 🎓 known
+  - CQRS: 🎓 known
+  - Event sourcing: 🎓 known
+  - Load balancing: 🎓 known
   - Serverless clouds 
   - FaaS clouds 
   - Fat controller
