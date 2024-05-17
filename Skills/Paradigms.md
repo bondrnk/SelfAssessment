@@ -11,56 +11,81 @@
   - Object-based programming
   - Generic programming: 🖐️ used
   - Concurrent computing: 🖐️ used
-  - Asyncronous programming: 🖐️ used
+  - Asynchronous programming: 🖐️ used
   - Parallel programming: 🖐️ used
   - Reactive programming: 🖐️ used
-  - FRP (Functional-reactive)
+  - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages: 🖐️ used
   - Multi-paradigm programming: 🖐️ used
-  - Metaprogramming
-  - Actor model
+  - Metaprogramming h
+  - Actor model h
+  - Lambda calculus h
+  - Black box u
+  - Information hiding h
+  - Aspect-oriented programming k
+  - Anemic domain model h
+  - Class composition u
 - OOP basics
-  - constructor: 🖐️ used
-  - new: 🖐️ used
-  - Static method: 🖐️ used
-  - Method: 🖐️ used
-  - Async method: 🖐️ used
-  - Getters, Setters: 🖐️ used
-  - Public fields: 🖐️ used
-  - Private fields: 🖐️ used
-  - Field declarations: 🖐️ used
-  - Inheritance: 🖐️ used
-  - Parent class: 🖐️ used
-  - Polymorphism: 🖐️ used
-  - Abstract class: 🖐️ used
-  - Interface: 🖐️ used
-  - Encapsulation: 🖐️ used
-  - Hidden class: 🖐️ used
-  - Object form: 🖐️ used
-  - instance: 🖐️ used
-  - Introspection: 🎓 known
-  - Reflection: 🎓 known
+  - Constructor u
+  - Operator `new` u
+  - Static method u
+  - Method u
+  - Async method u
+  - Getters, Setters u
+  - Public fields u
+  - Private fields u
+  - Field declarations u
+  - Inheritance u
+  - Parent class u
+  - Polymorphism u
+  - Abstract class u
+  - Interface u
+  - Encapsulation u
+  - Hidden class u
+  - Object form u
+  - Instance u
+  - Introspection k
+  - Reflection k
+  - The diamond problem u
+- GRASP
+  - Information expert
+  - Creator
+  - Controller
+  - Indirection
+  - Low coupling
+  - High cohesion
+  - Protected variations
+  - Pure fabrication
+- SOLID
+  - Single-responsibility principle (SRP)
+  - Open–closed principle (OCP)
+  - Liskov substitution principle (LSP)
+  - Interface segregation principle (ISP)
+  - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton: 🖐️ used
-  - Factory Method: 🖐️ used
-  - Abstract Factory: 🎓 known
-  - Adapter: 🎓 known
-  - Observer: 🎓 known
-  - Strategy: 🎓 known
-  - Facade: 🎓 known
-  - Proxy: 🎓 known
-  - Chain of Responsibility: 🎓 known
-  - Command: 🎓 known
-  - Iterator: 🖐️ used
-  - State: 🎓 known
-  - Bridge: 🎓 known
-  - Builder: 🖐️ used
-  - Prototype: 🎓 known
-  - Composite: 🎓 known
-  - Decorator: 🎓 known
-  - Flyweight: 🎓 known
-  - Mediator: 🎓 known
-  - Memento: 🎓 known
-  - Template Method: 🎓 known
-  - Visitor: 🎓 known
+  - Singleton u
+  - Factory Method u
+  - Abstract Factory k
+  - Adapter k
+  - Observer k
+  - Strategy k
+  - Facade k
+  - Proxy k
+  - Chain of Responsibility k
+  - Command k
+  - Iterator u
+  - State k
+  - Bridge k
+  - Builder u
+  - Prototype k
+  - Composite k
+  - Decorator k
+  - Flyweight k
+  - Mediator k
+  - Memento k
+  - Template Method k
+  - Visitor k
+  - Reactor k
+  - Active object k
+  - Delegation k

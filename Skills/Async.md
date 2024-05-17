@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 👂 heard
-  - try..catch: 🖐️ used
-  - Non-blocking: 🖐️ used
-  - Async I/O: 🖐️ used
-  - Thread pool: 🖐️ used
+  - Event loop h
+  - `try..catch` u
+  - Non-blocking u
+  - Async I/O u
+  - Thread pool u
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -44,8 +44,8 @@
   - callbackify
   - promisify
   - asyncify
-  - callbacks compose
-  - async compose
+  - Callbacks compose
+  - Async compose
 - Async abstractions interfaces
   - EventEmitter
   - Observable/Observer: 👂 heard
@@ -59,15 +59,13 @@
   - Mutex: 🖐️ used
   - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
-  - Timers: 🖐️ used
-  - setImmediate: 🖐️ used
-  - nextTick
+  - Timers u
+  - `setImmediate` u
+  - `nextTick`
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - child_process
-  - worker_threads
   - Atomics
   - High resolution clock
   - Callback hell
@@ -75,15 +73,12 @@
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
-  - JSON: streaming serialization: 👂 heard
-  - promisify
-  - callbackify
+  - JSON streaming serialization h
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - async.js library
+  - Async.js library
   - RxJS library
-  - Async composition
   - Promise.all
   - Promise.allSettled
   - Promise.race
@@ -91,5 +86,4 @@
   - Web Locks API
   - IPC
   - Channel API
-  - Revealing Constructor
-  - Web Locks API
+  - Revealing constructor

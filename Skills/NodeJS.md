@@ -3,22 +3,22 @@
 - Internals and concepts
   - Strong and weak sides of node.js: 👂 heard
   - Stateful and stateless servers: 👂 heard
-  - Nonblocking I/O and slocking code: 👂 heard
-  - Event loop: phases: 👂 heard
-  - Event loop: microtasks and macrotasks: 👂 heard
+  - Nonblocking I/O and blocking code: 👂 heard
+  - Event loop phases: 👂 heard
+  - Event loop microtasks and macrotasks: 👂 heard
   - Garbage collection: 👂 heard
   - Node.js LTS schedule: 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
   - Interactive applications (close to real-time): 👂 heard
 - Modularity, layers and dependencies
-  - CommonJS modules: 👂 heard
-  - ECMAScript modules: 👂 heard
-  - node:module: 👂 heard
-  - Caching in CJS and ESM: 👂 heard
-  - Modules as singletons: 👂 heard
-  - Contexts and scripts node:vm: 👂 heard
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - CommonJS modules h
+  - ECMAScript modules h
+  - Module `node:module` h
+  - Caching in CJS and ESM h
+  - Modules as singletons h
+  - Contexts and scripts module `node:vm` h
+  - Dependencies: `npm`, `node_modules`
+  - Files `package.json`, `package-lock.json`
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -36,56 +36,37 @@
   - Streams API
   - Web Streams API
   - Crypto API
-  - Password hashing with node:crypto.scrypt
+  - Password hashing with crypto.scrypt
   - Web Crypto API
-  - File system API: sync and async
+  - File system API (sync and async)
   - Copy folder recursively
   - Worker threads
   - Performance hooks
   - Native fetch and nodejs/undici
-  - node:async_hooks
+  - async_hooks
   - AsyncLocalStorage
   - AsyncResource
   - Deprecated domain API
   - Node.js single executable
-  - Stream back pressure
   - SharedArrayBuffer
-  - node:worker_threads
-  - node:child_process
+  - Module `node:worker_threads`
+  - Module `node:child_process`
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - node:url vs new URL
-  - node:assert
+  - Module `node:url` vs `new URL`
+  - Module `node:assert`
   - Internationalization
-  - Blob, File, Buffer, node:buffer
-  - Module node:zlib
-- Application structure and architecture
-  - Isolation between layer: 🖐️ used
-  - Multilayer approach: 🖐️ used
-  - Separation of concerns: 🖐️ used
-  - Inversion of control: 🎓 known
-  - Dependency injection: 🎓 known
-  - GRASP
-  - SOLID: 🎓 known
-  - GoF patterns: 🎓 known
-  - Distributed systems: 🖐️ used
-  - Highload applications: 🎓 known
-  - Clean architecture: 🎓 known
-  - DDD: 🖐️ used
-  - Message Queue: 🖐️ used
-  - CQS: 🎓 known
-  - CQRS: 🎓 known
-  - Event sourcing: 🎓 known
-  - Load balancing: 🎓 known
-  - Serverless clouds 
-  - FaaS clouds 
-  - Fat controller
-  - GoF for Node.js
-  - Leaking abstractions
+  - Blob, File, Buffer, module `node:buffer`
+  - Module `node:zlib`
 - Network
-  - IP sticky sessions
   - Endpoint throttling
+  - ALPN
+  - SNI callback
+  - SSL certificates
+  - Protocol agnostic approach
+  - Fetch API
+  - IncomingMessage
   - HTTP(S)
   - TCP/SSL
   - UDP
@@ -103,15 +84,10 @@
   - Path traversal
   - CSRF
   - DNS
-  - Fetch API
-  - IncomingMessage
   - SQL injection
   - noDelay
   - keep-alive
-  - ALPN
-  - SNI callback
-  - SSL certificates
-  - Protocol agnostic approach
+  - IP sticky sessions
 - Technique and tools
   - Native test runner
   - Logging
@@ -121,28 +97,26 @@
   - Readable
   - Writable
   - Transform
-  - back pressure
+  - Back pressure
   - Buffer
   - Console
   - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
 - Data access
   - Data access layer
   - Repository
   - Active record
   - Query builder
   - Object-Relational Mapping
+  - CRUD
+  - DTO
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - `Error`
+  - `error.cause`
+  - `error.code`
+  - `error.message`
+  - `error.stack`
+  - `Error.captureStackTrace`
   - How to avoid mixins
-  - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
   - Debugging tools
@@ -152,19 +126,18 @@
   - Data race
 - Integrations and bindings
   - Native addons
-  - C and C++ addons
-  - Rust addons
-  - Zig addons
+  - `C` and `C++` addons
+  - `Rust` addons
+  - `Zig` addons
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)
-  - NAPI C and C++
-  - NAPI Rust
-  - NAPI Zig
-  - Webassembly WAT
-  - Webassembly C and C++
-  - Webassembly Rust
-  - Webassembly Zig
-  - Webassembly AssemblyScript
+  - NAPI `C` and `C++`
+  - NAPI `Rust`
+  - NAPI `Zig`
+  - Webassembly `WAT`
+  - Webassembly `C` and `C++`
+  - Webassembly `Rust`
+  - Webassembly `Zig`
+  - Webassembly `AssemblyScript`
   - Shared memory
-  - SharedArrayBuffer
   - V8 binary serialization

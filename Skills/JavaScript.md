@@ -1,89 +1,122 @@
-## Programming fundamental concepts
+## JavaScript
 
 - Language
-  - Object: 🖐️ used
-  - this: 🖐️ used
-  - arrow function: 🖐️ used
-  - async function: 🖐️ used
-  - call: 🖐️ used
-  - bind: 🖐️ used
-  - apply: 🖐️ used
-  - instanceof: 🖐️ used
-  - ...spread: 🖐️ used
-  - ...rest: 🖐️ used
-  - typeof: 🖐️ used
-  - destructuring: 🖐️ used
-  - generator: 🖐️ used
-  - iterator: 🖐️ used
-  - async generator: 🖐️ used
-  - async iterator: 🖐️ used
-  - chaining: 👂 heard
-  - optional chaining: 👂 heard
-  - IIFE: 👂 heard
-  - global: 🖐️ used
-  - globalThis: 🖐️ used
-  - window: 🖐️ used
-  - getters and setters: 🖐️ used
-  - __proto__: 🖐️ used
-  - prototype: 🖐️ used
-  - equality operators: 🖐️ used
-  - logical operators: 🖐️ used
-  - bitwise operators: 🖐️ used
-  - ternary operator: 🖐️ used
-  - void: 🖐️ used
-  - yield: 👂 heard
-  - await: 🖐️ used
-  - template literal
-  - strict mode: 🖐️ used
-  - delete: 🖐️ used
-  - in: 🖐️ used
-  - super: 🖐️ used
-  - Symbol: 🖐️ used
-  - Reflect: 👂 heard
+  - `Object` u
+  - `Function` u
+  - `Boolean` u
+  - `Number` u
+  - `BigInt` u
+  - `String` u
+  - `Symbol` u
+  - `Infinity` u
+  - `NaN` u
+  - `undefined` u
+  - `null` u
+  - `this` u
+  - `instanceof` u
+  - `...spread` u
+  - `...rest` u
+  - `typeof` u
+  - Destructuring u
+  - Generators u
+  - Iterators u
+  - Async generator u
+  - Async iterator u
+  - Chaining u
+  - Optional chaining u
+  - IIFE u
+  - Async IIFE u
+  - `global` u
+  - `globalThis` u
+  - `window` u
+  - Getters and setters u
+  - `__proto__` u
+  - `prototype` u
+  - Equality operators u
+  - Logical operators u
+  - Logical Assignment u
+  - Bitwise operators u
+  - Ternary operator u
+  - `void` u
+  - `yield` u
+  - `await` u
+  - Template literal u
+  - Strict mode u
+  - Hoisting u
+  - `delete` u
+  - `in` u
+  - `super` u
+  - `eval` u
+  - `static` u
+  - `Number.parseInt` u
+  - `Number.parseFloat` u
+  - Property descriptors u
+  - Sealing properties u
+  - Freezing properties u
+  - Computed properties u
+  - Instance class fields u
+  - Static class fields u
+  - Private class fields u
+  - Private class methods u
 - Statements
-  - if: 🖐️ used
-  - while: 🖐️ used
-  - do..while: 🖐️ used
-  - for: 🖐️ used
-  - for..in: 🖐️ used
-  - for..of: 🖐️ used
-  - for await: 🖐️ used
-  - throw: 🖐️ used
-  - break: 🖐️ used
-  - continue: 🖐️ used
-  - import: 🖐️ used
-  - export: 🖐️ used
-  - label: 🖐️ used
-  - try..catch: 🖐️ used
-  - switch: 🖐️ used
-  - class: 🖐️ used
-  - new Error: 🖐️ used
-  - with: 🖐️ used
+  - `if` u
+  - `while` u
+  - `do..while` u
+  - `for` u
+  - `for..in` u
+  - `for..of` u
+  - `for await` u
+  - `throw` u
+  - `break` u
+  - `continue` u
+  - `import` u
+  - `export` u
+  - `label` u
+  - `try..catch` u
+  - `switch` u
+  - `class` u
+  - `extends` u
+  - `with` u
+  - `new` u
 - Functions
-  - function declaration: 🖐️ used
-  - function expression: 🖐️ used
-  - return: 🖐️ used
-  - default parameters: 🖐️ used
-  - functional object: 🖐️ used
+  - Arrow function u
+  - Async function u
+  - Function declaration u
+  - Function expression u
+  - Default parameters u
+  - Functional object u
+  - `Function.prototype.call` u
+  - `Function.prototype.bind` u
+  - `Function.prototype.apply` u
+  - `return` u
 - Data structures
-  - Array: 🖐️ used
-  - mixin: 🖐️ used
-  - extend: 🖐️ used
-  - typed arrays: 🖐️ used
-  - Map: 🖐️ used
-  - Set: 🖐️ used
-  - undefined: 🖐️ used
-  - null: 🖐️ used
-  - Proxy: 👂 heard
-  - weak collections: 🎓 known
-  - timers: 🎓 known
-  - EventEmitter: 👂 heard
-  - RegExp: 👂 heard
-  - Date: 🖐️ used
-  - BigInt: 🖐️ used
+  - `Array` u
+  - `Map` u
+  - `Set` u
+  - `WeakMap` u
+  - `WeakSet` u
+  - Typed arrays u
+  - Mixins u
+  - `Object.assign` u
+- Standard classes and namespaces
+  - `Proxy` u
+  - `RegExp` u
+  - `Date` u
+  - `Math` u
+  - `Reflect` u
+  - `Error` u
+  - `Atomics` k
+  - `JSON` u
+  - `WeakRef` k
+  - `FinalizationRegistry` k
+  - `Intl` k
+  - `Promise` u
+  - `console` u
+  - Timers u
 - Infrastructure
-  - V8: 👂 heard
-  - Node.js: 🎓 known
-  - npm: 🖐️ used
-  - prettier: 🖐️ used
-  - MDN: 🖐️ used
+  - V8 h
+  - Node.js u
+  - npm u
+  - prettier u
+  - MDN u
+  - TC39 h
