@@ -18,36 +18,36 @@
   - Automata-based programming
   - Domain-specific languages: 🖐️ used
   - Multi-paradigm programming: 🖐️ used
-  - Metaprogramming h
-  - Actor model h
-  - Lambda calculus h
-  - Black box u
-  - Information hiding h
-  - Aspect-oriented programming k
-  - Anemic domain model h
-  - Class composition u
+  - Metaprogramming: 👂 heard
+  - Actor model: 👂 heard
+  - Lambda calculus: 👂 heard
+  - Black box: 🖐️ used
+  - Information hiding: 👂 heard
+  - Aspect-oriented programming: 🖐️ used
+  - Anemic domain model: 👂 heard
+  - Class composition: 🖐️ used
 - OOP basics
-  - Constructor u
-  - Operator `new` u
-  - Static method u
-  - Method u
-  - Async method u
-  - Getters, Setters u
-  - Public fields u
-  - Private fields u
-  - Field declarations u
-  - Inheritance u
-  - Parent class u
-  - Polymorphism u
-  - Abstract class u
-  - Interface u
-  - Encapsulation u
-  - Hidden class u
-  - Object form u
-  - Instance u
-  - Introspection k
-  - Reflection k
-  - The diamond problem u
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
+  - Hidden class: 🖐️ used
+  - Object form: 🖐️ used
+  - Instance: 🖐️ used
+  - Introspection: 🖐️ used
+  - Reflection: 🖐️ used
+  - The diamond problem: 🖐️ used
 - GRASP
   - Information expert
   - Creator
@@ -64,28 +64,28 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton u
-  - Factory Method u
-  - Abstract Factory k
-  - Adapter k
-  - Observer k
-  - Strategy k
-  - Facade k
-  - Proxy k
-  - Chain of Responsibility k
-  - Command k
-  - Iterator u
-  - State k
-  - Bridge k
-  - Builder u
-  - Prototype k
-  - Composite k
-  - Decorator k
-  - Flyweight k
-  - Mediator k
-  - Memento k
-  - Template Method k
-  - Visitor k
-  - Reactor k
-  - Active object k
-  - Delegation k
+  - Singleton: 🖐️ used
+  - Factory Method: 🖐️ used
+  - Abstract Factory: 🖐️ used
+  - Adapter: 🖐️ used
+  - Observer: 🖐️ used
+  - Strategy: 🖐️ used
+  - Facade: 🖐️ used
+  - Proxy: 🖐️ used
+  - Chain of Responsibility: 🖐️ used
+  - Command: 🖐️ used
+  - Iterator: 🖐️ used
+  - State: 🖐️ used
+  - Bridge: 🖐️ used
+  - Builder: 🖐️ used
+  - Prototype: 🖐️ used
+  - Composite: 🖐️ used
+  - Decorator: 🖐️ used
+  - Flyweight: 🖐️ used
+  - Mediator: 🖐️ used
+  - Memento: 🖐️ used
+  - Template Method: 🖐️ used
+  - Visitor: 🖐️ used
+  - Reactor: 🖐️ used
+  - Active object: 🖐️ used
+  - Delegation: 🖐️ used

@@ -1,6 +1,6 @@
 ## Software engineering self assessment
 
-<!--- $BADGE -->
+[![Skills](https://img.shields.io/badge/Self_Assessment-670&nbsp;/&nbsp;702&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/bondrnk/SelfAssessment/blob/main/Profile/REPORT.md)
 
 This _knowledge assessment_ can be used as an automated tool for **tracking** and **analyzing** an engineer’s **microskills**, for personal use, for reference in your **CV** or profile (github, linkedin, etc.). After filling skills, the system generates a button in `html` and `md` with a link to your fork of the repo. The tool speeds up **interviews** and **certification** for both the applicant and the interviewer: you can check only part of the key knowledge and then sign a commit with a personal GPG key. If you periodically take an assessment, or do it before and after the start of _training_, and store branches or tags with the results of an inventory of microskills at a certain point in time, then it is very convenient to compare the _progress_ you have made during the period of _training_, reading a book, working on a project etc. Currently, assessment has more than **700 microskills** and will be constantly expanded in all areas, languages and technologies (for example `Proxy`, `Promise`, `Future`, `SRP`, `DI`, `Boxing`, `Cohesion`, `Tail call recursion`...) with automatic comparison of them with _roles_ (for example `Node.js API developer`, `Node.js gamedev`, `Frontend`...) the robot generates a report via `Github Actions CI` with recommendations on what needs to be improved. New roles and knowledge areas will be available soon, after which you can rebase your repo on the original one to receive the new report.
 
@@ -49,11 +49,11 @@ It should look like following example after filling it out. And will be automati
 ```
 - Syntax                       - Syntax
   - Value !             ⤑        - Value: 🙋 explained
-  - Identifier: *       ⤑        - Identifier: 🖐️ used
+  - Identifier: *       ⤑        - Identifier: u
   - Variable: !         ⤑        - Variable: 🙋 explained
-  - Constant *          ⤑        - Constant: 🖐️ used
-  - Scalar *            ⤑        - Scalar: 🖐️ used
-  - Literal ~           ⤑        - Literal: 👂 heard
-  - Expression: *       ⤑        - Expression: 🖐️ used
-  - Heap: +                      - Heap: 🎓 known
+  - Constant *          ⤑        - Constant: u
+  - Scalar *            ⤑        - Scalar: u
+  - Literal ~           ⤑        - Literal: u
+  - Expression: *       ⤑        - Expression: u
+  - Heap: +                      - Heap: u
 ```

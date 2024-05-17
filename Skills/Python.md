@@ -52,8 +52,17 @@
   - Tuple: 🖐️ used
   - None: 🖐️ used
   - datetime: 🖐️ used
+  - dataclass: 🖐️ used
+- Libraries and Frameworks
+  - xml: 🖐️ used
+  - json: 🖐️ used
+  - Django: 🖐️ used
+  - Flask: 🖐️ used
+  - sqlalchemy: 🖐️ used
+  - pytest: 🖐️ used
 - Infrastructure
-  - CPython: 👂 heard
+  - CPython: 🖐️ used
   - pip (package manager): 🖐️ used
+  - pyenv: 🖐️ used
   - PyPI (Python Package Index): 🖐️ used
   - virtual environments: 🖐️ used
