@@ -2,27 +2,27 @@
 
 - Application structure
   - Modularity k
-  - Components 
-  - Directories
+  - Components u
+  - Directories u
   - GRASP u
   - SOLID u
   - GoF patterns u
-  - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
+  - CQS u
+  - Leaking abstractions u
+  - Multiparadigm code u
+  - Contract programming k
+  - Platform-agnostic k
+  - Transport-agnostic k
+  - Framework-agnostic k
   - Code coverage h
-  - Cohesion
-  - Coupling
-  - Cyclomatic complexity
-  - Reliability
+  - Cohesion k
+  - Coupling u
+  - Cyclomatic complexity h
+  - Reliability k
   - Quality k
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Availability k
+  - Flexibility k
+  - Law of Demeter (LoD) h
 - Application architecture
   - Isolation between layer k
   - Domain-specific language (DSL) k
@@ -46,22 +46,22 @@
   - Entity-relationship diagram k
   - IDEF1X
   - UML k
-  - Work breakdown structure
-  - Budget estimation
+  - Work breakdown structure k
+  - Budget estimation k
   - Distributed systems k
-  - High-intensive computing
+  - High-intensive computing h
   - Load balancing k
-  - Gateways
-  - On-premises
-  - IaaS
-  - PaaS
+  - Gateways k
+  - On-premises u
+  - IaaS h
+  - PaaS h
   - SaaS k
-  - FaaS clouds
+  - FaaS clouds h
   - Serverless k
   - Vendor lock-in k
   - Bus factor k
 - Solution architecture
-  - A software requirements specification (SRS)
+  - A software requirements specification (SRS) 
   - Solution visions
   - Solution capabilities
   - System design
@@ -70,31 +70,31 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds u
   - BPMN
-  - Low-code
+  - Low-code u
   - No-code k
-  - Metric
-  - Metric abuse
-  - ACID
-  - CAP theorem
+  - Metric u
+  - Metric abuse u
+  - ACID u
+  - CAP theorem h
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
-  - Integration with subsystems
-  - Enterprise vision
-  - Enterprise capabilities
-  - Project scope
-  - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
-  - Process choreography
-  - Service orchestration
-  - Data warehouse
-  - Business Intelligence
+  - Understanding business needs u
+  - Enterprise strategy u
+  - Integration with subsystems u
+  - Enterprise vision h
+  - Enterprise capabilities h
+  - Project scope u
+  - Enterprise service bus h
+  - Service-oriented architecture h
+  - Microservices u
+  - Process choreography h
+  - Service orchestration u
+  - Data warehouse h
+  - Business Intelligence h
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance
-  - Engineering Hygiene
+  - Quality assurance u
+  - Engineering Hygiene k

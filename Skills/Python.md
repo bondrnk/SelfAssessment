@@ -1,59 +1,68 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object: 🖐️ used
-  - self: 🖐️ used
-  - lambda function: 🖐️ used
-  - async function: 🖐️ used
-  - decorators: 🖐️ used
-  - isinstance: 🖐️ used
-  - unpacking: 🖐️ used
-  - *args, **kwargs: 🖐️ used
-  - type: 🖐️ used
-  - tuple unpacking: 🖐️ used
-  - generator: 🖐️ used
-  - iterator: 🖐️ used
-  - async generator: 🖐️ used
-  - async iterator: 🖐️ used
-  - method chaining: 🖐️ used
-  - global variable: 🖐️ used
-  - property (getters and setters): 🖐️ used
-  - dict: 🖐️ used
-  - class inheritance (prototype): 🖐️ used
-  - comparison operators: 🖐️ used
-  - logical operators: 🖐️ used
-  - bitwise operators: 🖐️ used
-  - ternary operator: 🖐️ used
-  - del: 🖐️ used
-  - in operator: 🖐️ used
-  - super: 🖐️ used
-  - metaclasses: 🖐️ used
+  - Object: u
+  - self: u
+  - lambda function: u
+  - async function: u
+  - decorators: u
+  - isinstance: u
+  - unpacking: u
+  - *args, **kwargs: u
+  - type: u
+  - tuple unpacking: u
+  - generator: u
+  - iterator: u
+  - async generator: u
+  - async iterator: u
+  - method chaining: u
+  - global variable: u
+  - property (getters and setters): u
+  - dict: u
+  - class inheritance (prototype): u
+  - comparison operators: u
+  - logical operators: u
+  - bitwise operators: u
+  - ternary operator: u
+  - del: u
+  - in operator: u
+  - super: u
+  - metaclasses: u
 - Statements
-  - if: 🖐️ used
-  - while: 🖐️ used
-  - for: 🖐️ used
-  - try..except: 🖐️ used
-  - with statement: 🖐️ used
-  - import: 🖐️ used
-  - break: 🖐️ used
-  - continue: 🖐️ used
-  - pass: 🖐️ used
-  - assert: 🖐️ used
-  - class: 🖐️ used
+  - if: u
+  - while: u
+  - for: u
+  - try..except: u
+  - with statement: u
+  - import: u
+  - break: u
+  - continue: u
+  - pass: u
+  - assert: u
+  - class: u
 - Functions
-  - function definition: 🖐️ used
-  - return: 🖐️ used
-  - default parameters: 🖐️ used
-  - closures: 🖐️ used
+  - function definition: u
+  - return: u
+  - default parameters: u
+  - closures: u
 - Data structures
-  - List: 🖐️ used
-  - Dictionary: 🖐️ used
-  - Set: 🖐️ used
-  - Tuple: 🖐️ used
-  - None: 🖐️ used
-  - datetime: 🖐️ used
+  - List: u
+  - Dictionary: u
+  - Set: u
+  - Tuple: u
+  - None: u
+  - datetime: u
+  - dataclass u
+- Libraries and Frameworks
+  - xml u
+  - json u
+  - Django u
+  - Flask u
+  - sqlalchemy u
+  - pytest u
 - Infrastructure
-  - CPython: 👂 heard
-  - pip (package manager): 🖐️ used
-  - PyPI (Python Package Index): 🖐️ used
-  - virtual environments: 🖐️ used
+  - CPython: u
+  - pip (package manager): u
+  - pyenv u
+  - PyPI (Python Package Index): u
+  - virtual environments: u

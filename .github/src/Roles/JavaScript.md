@@ -1,174 +1,174 @@
 ## JavaScript
 
 - To start asynchronous programming
-  - `Object`: 🖐️ used
-  - `Function`: 🖐️ used
-  - `Boolean`: 🖐️ used
-  - `Number`: 🖐️ used
-  - `Symbol`: 🎓 known
-  - `undefined`: 🖐️ used
-  - `null`: 🖐️ used
-  - `this`: 🖐️ used
-  - `instanceof`: 🖐️ used
-  - `...spread`: 🖐️ used
-  - `...rest`: 🖐️ used
-  - `typeof`: 🖐️ used
-  - Destructuring: 🖐️ used
-  - Generators: 👂 heard
-  - Iterators: 👂 heard
-  - Async generator: 👂 heard
-  - Async iterator: 👂 heard
-  - Chaining: 👂 heard
-  - Optional chaining: 👂 heard
-  - IIFE: 👂 heard
-  - Async IIFE: 👂 heard
-  - `global`: 🎓 known
-  - `globalThis`: 👂 heard
-  - Getters and setters: 👂 heard
-  - `prototype`: 👂 heard
-  - Equality operators: 🖐️ used
-  - Logical operators: 🖐️ used
-  - Ternary operator: 🖐️ used
-  - `yield`: 👂 heard
-  - `await`: 👂 heard
-  - Template literal: 🖐️ used
-  - Strict mode: 🖐️ used
-  - `super`: 🖐️ used
-  - `static`: 👂 heard
-  - Private class fields: 🎓 known
-  - Private class methods: 🎓 known
-  - `if`: 🖐️ used
-  - `while`: 🖐️ used
-  - `do..while`: 🎓 known
-  - `for`: 🖐️ used
-  - `for..of`: 🖐️ used
-  - `for await`: 👂 heard
-  - `throw`: 🖐️ used
-  - `break`: 🎓 known
-  - `continue`: 🎓 known
-  - `import`: 🎓 known
-  - `export`: 🎓 known
-  - `try..catch`: 🎓 known
-  - `class`: 🖐️ used
-  - `extends`: 🖐️ used
-  - `new`: 🖐️ used
-  - Arrow function: 🖐️ used
-  - Async function: 🎓 known
-  - Function declaration: 🖐️ used
-  - Function expression: 🖐️ used
-  - Default parameters: 🖐️ used
-  - Functional object: 👂 heard
-  - `return`: 🖐️ used
-  - `Array`: 🖐️ used
-  - `Map`: 🖐️ used
-  - `Set`: 🖐️ used
-  - Mixins: 🎓 known
-  - `Object.assign`: 🎓 known
-  - `Proxy`: 🎓 known
-  - `Error`: 🖐️ used
-  - `WeakRef`: 👂 heard
-  - `FinalizationRegistry`: 👂 heard
-  - `Promise`: 👂 heard
-  - `console`: 🖐️ used
-  - Timers: 🖐️ used
-  - V8: 👂 heard
-  - prettier: 🎓 known
+  - `Object`: u
+  - `Function`: u
+  - `Boolean`: u
+  - `Number`: u
+  - `Symbol`: u
+  - `undefined`: u
+  - `null`: u
+  - `this`: u
+  - `instanceof`: u
+  - `...spread`: u
+  - `...rest`: u
+  - `typeof`: u
+  - Destructuring: u
+  - Generators: u
+  - Iterators: u
+  - Async generator: u
+  - Async iterator: u
+  - Chaining: u
+  - Optional chaining: u
+  - IIFE: u
+  - Async IIFE: u
+  - `global`: u
+  - `globalThis`: u
+  - Getters and setters: u
+  - `prototype`: u
+  - Equality operators: u
+  - Logical operators: u
+  - Ternary operator: u
+  - `yield`: u
+  - `await`: u
+  - Template literal: u
+  - Strict mode: u
+  - `super`: u
+  - `static`: u
+  - Private class fields: u
+  - Private class methods: u
+  - `if`: u
+  - `while`: u
+  - `do..while`: u
+  - `for`: u
+  - `for..of`: u
+  - `for await`: u
+  - `throw`: u
+  - `break`: u
+  - `continue`: u
+  - `import`: u
+  - `export`: u
+  - `try..catch`: u
+  - `class`: u
+  - `extends`: u
+  - `new`: u
+  - Arrow function: u
+  - Async function: u
+  - Function declaration: u
+  - Function expression: u
+  - Default parameters: u
+  - Functional object: u
+  - `return`: u
+  - `Array`: u
+  - `Map`: u
+  - `Set`: u
+  - Mixins: u
+  - `Object.assign`: u
+  - `Proxy`: u
+  - `Error`: u
+  - `WeakRef`: u
+  - `FinalizationRegistry`: u
+  - `Promise`: u
+  - `console`: u
+  - Timers: u
+  - V8: u
+  - prettier: u
 - To start Node.js
-  - `Object`: 🖐️ used
-  - `Function`: 🖐️ used
-  - `Boolean`: 🖐️ used
-  - `Number`: 🖐️ used
-  - `BigInt`: 🖐️ used
-  - `String`: 🖐️ used
-  - `Symbol`: 🖐️ used
-  - `Infinity`: 🖐️ used
-  - `NaN`: 🖐️ used
-  - `undefined`: 🖐️ used
-  - `null`: 🖐️ used
-  - `this`: 🖐️ used
-  - `instanceof`: 🖐️ used
-  - `...spread`: 🖐️ used
-  - `...rest`: 🖐️ used
-  - `typeof`: 🖐️ used
-  - Destructuring: 🖐️ used
-  - Generators: 🖐️ used
-  - Iterators: 🖐️ used
-  - Async generator: 🖐️ used
-  - Async iterator: 🖐️ used
-  - Chaining: 🖐️ used
-  - IIFE: 🖐️ used
-  - Async IIFE: 🖐️ used
-  - `global`: 🖐️ used
-  - `globalThis`: 🖐️ used
-  - Getters and setters: 🖐️ used
-  - Equality operators: 🖐️ used
-  - Logical operators: 🖐️ used
-  - Ternary operator: 🖐️ used
-  - `void`: 🖐️ used
-  - `yield`: 🖐️ used
-  - `await`: 🖐️ used
-  - Template literal: 🖐️ used
-  - Strict mode: 🖐️ used
-  - `delete`: 🖐️ used
-  - `in`: 👂 heard
-  - `super`: 🖐️ used
-  - `eval`: 🎓 known
-  - `static`: 🖐️ used
-  - `Number.parseInt`: 🖐️ used
-  - `Number.parseFloat`: 🖐️ used
-  - Property descriptors: 🎓 known
-  - Sealing properties: 🎓 known
-  - Freezing properties: 🎓 known
-  - Computed properties: 🎓 known
-  - Instance class fields: 🎓 known
-  - Static class fields: 🎓 known
-  - Private class fields: 🎓 known
-  - Private class methods: 🎓 known
-  - `if`: 🖐️ used
-  - `while`: 🖐️ used
-  - `do..while`: 🖐️ used
-  - `for`: 🖐️ used
-  - `for..in`: 🎓 known
-  - `for..of`: 🖐️ used
-  - `for await`: 🖐️ used
-  - `throw`: 🖐️ used
-  - `break`: 🖐️ used
-  - `continue`: 🖐️ used
-  - `import`: 🖐️ used
-  - `export`: 🖐️ used
-  - `try..catch`: 🖐️ used
-  - `class`: 🖐️ used
-  - `extends`: 🖐️ used
-  - `new`: 🖐️ used
-  - Arrow function: 🖐️ used
-  - Async function: 🖐️ used
-  - Function declaration: 🖐️ used
-  - Function expression: 🖐️ used
-  - Default parameters: 🖐️ used
-  - Functional object: 👂 heard
-  - `return`: 🖐️ used
-  - `Array`: 🖐️ used
-  - `Map`: 🖐️ used
-  - `Set`: 🖐️ used
-  - `WeakMap`: 🎓 known
-  - `WeakSet`: 🎓 known
-  - Typed arrays: 🎓 known
-  - Mixins: 👂 heard
-  - `Object.assign`: 🎓 known
-  - `Proxy`: 🎓 known
-  - `RegExp`: 🎓 known
-  - `Date`: 🎓 known
-  - `Math`: 🎓 known
-  - `Reflect`: 🎓 known
-  - `Error`: 🖐️ used
-  - `Atomics`: 👂 heard
-  - `JSON`: 🖐️ used
-  - `WeakRef`: 👂 heard
-  - `FinalizationRegistry`: 👂 heard
-  - `Promise`: 🖐️ used
-  - `console`: 🖐️ used
-  - Timers: 🖐️ used
-  - V8: 🖐️ used
-  - Node.js: 👂 heard
-  - npm: 🎓 known
-  - prettier: 🎓 known
+  - `Object`: u
+  - `Function`: u
+  - `Boolean`: u
+  - `Number`: u
+  - `BigInt`: u
+  - `String`: u
+  - `Symbol`: u
+  - `Infinity`: u
+  - `NaN`: u
+  - `undefined`: u
+  - `null`: u
+  - `this`: u
+  - `instanceof`: u
+  - `...spread`: u
+  - `...rest`: u
+  - `typeof`: u
+  - Destructuring: u
+  - Generators: u
+  - Iterators: u
+  - Async generator: u
+  - Async iterator: u
+  - Chaining: u
+  - IIFE: u
+  - Async IIFE: u
+  - `global`: u
+  - `globalThis`: u
+  - Getters and setters: u
+  - Equality operators: u
+  - Logical operators: u
+  - Ternary operator: u
+  - `void`: u
+  - `yield`: u
+  - `await`: u
+  - Template literal: u
+  - Strict mode: u
+  - `delete`: u
+  - `in`: u
+  - `super`: u
+  - `eval`: u
+  - `static`: u
+  - `Number.parseInt`: u
+  - `Number.parseFloat`: u
+  - Property descriptors: u
+  - Sealing properties: u
+  - Freezing properties: u
+  - Computed properties: u
+  - Instance class fields: u
+  - Static class fields: u
+  - Private class fields: u
+  - Private class methods: u
+  - `if`: u
+  - `while`: u
+  - `do..while`: u
+  - `for`: u
+  - `for..in`: u
+  - `for..of`: u
+  - `for await`: u
+  - `throw`: u
+  - `break`: u
+  - `continue`: u
+  - `import`: u
+  - `export`: u
+  - `try..catch`: u
+  - `class`: u
+  - `extends`: u
+  - `new`: u
+  - Arrow function: u
+  - Async function: u
+  - Function declaration: u
+  - Function expression: u
+  - Default parameters: u
+  - Functional object: u
+  - `return`: u
+  - `Array`: u
+  - `Map`: u
+  - `Set`: u
+  - `WeakMap`: u
+  - `WeakSet`: u
+  - Typed arrays: u
+  - Mixins: u
+  - `Object.assign`: u
+  - `Proxy`: u
+  - `RegExp`: u
+  - `Date`: u
+  - `Math`: u
+  - `Reflect`: u
+  - `Error`: u
+  - `Atomics`: u
+  - `JSON`: u
+  - `WeakRef`: u
+  - `FinalizationRegistry`: u
+  - `Promise`: u
+  - `console`: u
+  - Timers: u
+  - V8: u
+  - Node.js: u
+  - npm: u
+  - prettier: u

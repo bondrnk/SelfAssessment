@@ -1,29 +1,29 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 🖐️ used
-  - Imperative programming: 🖐️ used
-  - Structured programming: 🖐️ used
+  - Procedural programming: u
+  - Imperative programming: u
+  - Structured programming: u
   - Non-structured programming
-  - Functional programming: 🖐️ used
+  - Functional programming: u
   - Prototype-based programming
-  - Object-oriented programming: 🖐️ used
+  - Object-oriented programming: u
   - Object-based programming
-  - Generic programming: 🖐️ used
-  - Concurrent computing: 🖐️ used
-  - Asynchronous programming: 🖐️ used
-  - Parallel programming: 🖐️ used
-  - Reactive programming: 🖐️ used
+  - Generic programming: u
+  - Concurrent computing: u
+  - Asynchronous programming: u
+  - Parallel programming: u
+  - Reactive programming: u
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages: 🖐️ used
-  - Multi-paradigm programming: 🖐️ used
+  - Domain-specific languages: u
+  - Multi-paradigm programming: u
   - Metaprogramming h
   - Actor model h
   - Lambda calculus h
   - Black box u
   - Information hiding h
-  - Aspect-oriented programming k
+  - Aspect-oriented programming u
   - Anemic domain model h
   - Class composition u
 - OOP basics
@@ -45,8 +45,8 @@
   - Hidden class u
   - Object form u
   - Instance u
-  - Introspection k
-  - Reflection k
+  - Introspection u
+  - Reflection u
   - The diamond problem u
 - GRASP
   - Information expert
@@ -66,26 +66,26 @@
 - Patterns
   - Singleton u
   - Factory Method u
-  - Abstract Factory k
-  - Adapter k
-  - Observer k
-  - Strategy k
-  - Facade k
-  - Proxy k
-  - Chain of Responsibility k
-  - Command k
+  - Abstract Factory u
+  - Adapter u
+  - Observer u
+  - Strategy u
+  - Facade u
+  - Proxy u
+  - Chain of Responsibility u
+  - Command u
   - Iterator u
-  - State k
-  - Bridge k
+  - State u
+  - Bridge u
   - Builder u
-  - Prototype k
-  - Composite k
-  - Decorator k
-  - Flyweight k
-  - Mediator k
-  - Memento k
-  - Template Method k
-  - Visitor k
-  - Reactor k
-  - Active object k
-  - Delegation k
+  - Prototype u
+  - Composite u
+  - Decorator u
+  - Flyweight u
+  - Mediator u
+  - Memento u
+  - Template Method u
+  - Visitor u
+  - Reactor u
+  - Active object u
+  - Delegation u
